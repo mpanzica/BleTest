@@ -1,0 +1,10 @@
+﻿/.vs
+/*/bin
+/*/obj
+/*/*.user
+/_ReSharper.Caches
+/*.Android/Resources/Resource.designer.cs
+/*.Localization/LocalizedStrings.g.cs
+/*.Localization/LocalizationKeys.g.cs
+*.bak
+*.resx
